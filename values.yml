@@ -2,6 +2,6 @@ gitIntegration: github_int
 gitRepositoryPath: ravits123/Swampup2021-su204-cicd-deep-dive
 artifactoryIntegration: artifactory_int
 imageName: app_docker_image
-artifactoryUrl: https://productdemo.jfrog.io
+artifactoryUrl: https://productdemo.jfrog.io/ui/admin/repositories/local
 sourceRepository: su204-docker-staging-local
 prodRepository: su204-docker-prod-local
